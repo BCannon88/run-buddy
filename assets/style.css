@@ -340,7 +340,7 @@ max-width: 100%;
       color: var(--primary-color);
   }
 
-  .contact-info {
+.contact-info {
       display: flex;
       justify-content: space-between;
       flex-wrap: wrap;
@@ -370,7 +370,7 @@ max-width: 100%;
     color: var(--primary-color);
   }
 
-  .contact-form input, .contact-form textarea {
+.contact-form input, .contact-form textarea {
     border: 1px solid var(--secondary-color);
     display: block;
     padding: 7px 15px;
@@ -382,7 +382,7 @@ max-width: 100%;
     border-radius: 10px;
   }
   
- .contact-form button {
+.contact-form button {
     width: 100%;
     border: none;
     background: var(--primary-color);
@@ -393,7 +393,7 @@ max-width: 100%;
     border-radius: 10px; 
   } 
 
-  .contact-form button:hover {
+.contact-form button:hover {
     color: var(--primary-color);
     background: var(--tertiary-color);
   }
